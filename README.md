@@ -1,6 +1,6 @@
 # PipeSim COA
 
-A C-based simulator for analyzing instruction pipelining, pipeline hazards, and processor performance in Computer Organization and Architecture (COA).
+A Python-based simulator for analyzing instruction pipelining, pipeline hazards, and processor performance in Computer Organization and Architecture (COA).
 
 ## 📌 Overview
 
